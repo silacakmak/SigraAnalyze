@@ -1,0 +1,59 @@
+
+═══════════════════════════════════════════════════════════════
+            TOPLU RÖLE ARIZA ANALİZ ÖZET RAPORU
+═══════════════════════════════════════════════════════════════
+Toplam Analiz Edilen Dosya Sayısı: 16
+Rapor Oluşturma Zamanı: 29.07.2025 10:20:12
+═══════════════════════════════════════════════════════════════
+
+📋 ANALİZ EDİLEN DOSYALAR:
+───────────────────────────────────────────────────────────────
+1. 24030040.pdf
+2. 24030041.pdf
+3. 24030042.pdf
+4. 24030043.pdf
+5. 24030044.pdf
+6. 24030045.pdf
+7. 7E0A0009.pdf
+8. 7E0A0010.pdf
+9. 7E0A0011.pdf
+10. 7E0A0012.pdf
+11. 7E0A0013.pdf
+12. 7E0B0001.pdf
+13. 7E0B0002.pdf
+14. 7E0B0003.pdf
+15. 7E0B0004.pdf
+16. 7E0B0016.pdf
+
+
+🛡️ KORUMA FONKSİYONU İSTATİSTİKLERİ:
+───────────────────────────────────────────────────────────────
+50   : 690 dosyada tespit edildi
+67   : 204 dosyada tespit edildi
+59   : 132 dosyada tespit edildi
+46   :  96 dosyada tespit edildi
+27   :  88 dosyada tespit edildi
+67N  :  80 dosyada tespit edildi
+51   :  78 dosyada tespit edildi
+79   :  62 dosyada tespit edildi
+60   :  44 dosyada tespit edildi
+59G  :  40 dosyada tespit edildi
+47O- :  40 dosyada tespit edildi
+47U+ :  40 dosyada tespit edildi
+49F  :  40 dosyada tespit edildi
+50N  :  40 dosyada tespit edildi
+51N  :  40 dosyada tespit edildi
+67NIEF:  40 dosyada tespit edildi
+68   :  22 dosyada tespit edildi
+46D  :  20 dosyada tespit edildi
+
+
+⚡ EN SIK KARŞILAŞILAN ARIZA NEDENLERİ:
+───────────────────────────────────────────────────────────────
+- Yönlü aşırı akım - Muhtemelen hat arızası | Toprak arızası tespit edildi | Aşırı akım koruması devreye girdi | Aşırı gerilim tespit edildi | Az gerilim tespit edildi (10 dosya)
+- Aşırı akım koruması devreye girdi | Az gerilim tespit edildi (6 dosya)
+
+
+═══════════════════════════════════════════════════════════════
+            DETAYLI RAPORLAR İÇİN TEKİL DOSYALARA BAKINIZ
+═══════════════════════════════════════════════════════════════

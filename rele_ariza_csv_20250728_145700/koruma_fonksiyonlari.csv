@@ -1,0 +1,128 @@
+Sıra,Koruma Kodu,Açıklama,Durum
+1,60,Gerilim/Frekans Dengesizlik,Tespit Edildi
+2,46,Faz Sırası/Negatif Sıra Koruma,Tespit Edildi
+3,60,Gerilim/Frekans Dengesizlik,Tespit Edildi
+4,50,Ani Akım Koruma,Tespit Edildi
+5,50,Ani Akım Koruma,Tespit Edildi
+6,50,Ani Akım Koruma,Tespit Edildi
+7,50,Ani Akım Koruma,Tespit Edildi
+8,50,Ani Akım Koruma,Tespit Edildi
+9,50,Ani Akım Koruma,Tespit Edildi
+10,50,Ani Akım Koruma,Tespit Edildi
+11,50,Ani Akım Koruma,Tespit Edildi
+12,50,Ani Akım Koruma,Tespit Edildi
+13,50,Ani Akım Koruma,Tespit Edildi
+14,50,Ani Akım Koruma,Tespit Edildi
+15,50,Ani Akım Koruma,Tespit Edildi
+16,50,Ani Akım Koruma,Tespit Edildi
+17,50,Ani Akım Koruma,Tespit Edildi
+18,50,Ani Akım Koruma,Tespit Edildi
+19,50,Ani Akım Koruma,Tespit Edildi
+20,50,Ani Akım Koruma,Tespit Edildi
+21,50,Ani Akım Koruma,Tespit Edildi
+22,46,Faz Sırası/Negatif Sıra Koruma,Tespit Edildi
+23,59,Aşırı Gerilim Koruma,Tespit Edildi
+24,59G,Toprak Aşırı Gerilim Koruma,Tespit Edildi
+25,59,Aşırı Gerilim Koruma,Tespit Edildi
+26,59G,Toprak Aşırı Gerilim Koruma,Tespit Edildi
+27,59,Aşırı Gerilim Koruma,Tespit Edildi
+28,59G,Toprak Aşırı Gerilim Koruma,Tespit Edildi
+29,27,Az Gerilim Koruma,Tespit Edildi
+30,27,Az Gerilim Koruma,Tespit Edildi
+31,27,Az Gerilim Koruma,Tespit Edildi
+32,47O-,Gerilim Düşük Koruma,Tespit Edildi
+33,47U+,Gerilim Yüksek Koruma,Tespit Edildi
+34,59,Aşırı Gerilim Koruma,Tespit Edildi
+35,59,Aşırı Gerilim Koruma,Tespit Edildi
+36,59,Aşırı Gerilim Koruma,Tespit Edildi
+37,49F,Termal Koruma,Tespit Edildi
+38,46,Faz Sırası/Negatif Sıra Koruma,Tespit Edildi
+39,46D,Faz Sırası Koruma - Açma,Tespit Edildi
+40,50,Ani Akım Koruma,Tespit Edildi
+41,51,Zaman Aşırı Akım Koruma,Tespit Edildi
+42,50N,Ani Toprak Koruma,Tespit Edildi
+43,51N,Zaman Aşırı Toprak Koruma,Tespit Edildi
+44,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+45,67N,Yönlü Toprak Koruma,Tespit Edildi
+46,67NIEF,Yönlü Toprak Koruma (İnternal),Tespit Edildi
+47,50,Ani Akım Koruma,Tespit Edildi
+48,51,Zaman Aşırı Akım Koruma,Tespit Edildi
+49,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+50,67N,Yönlü Toprak Koruma,Tespit Edildi
+51,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+52,67N,Yönlü Toprak Koruma,Tespit Edildi
+53,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+54,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+55,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+56,67N,Yönlü Toprak Koruma,Tespit Edildi
+57,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+58,67N,Yönlü Toprak Koruma,Tespit Edildi
+59,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+60,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+61,50,Ani Akım Koruma,Tespit Edildi
+62,50,Ani Akım Koruma,Tespit Edildi
+63,79,Otomatik Kapama/Açma,Açma
+64,79,Otomatik Kapama/Açma,Tespit Edildi
+65,79,Otomatik Kapama/Açma,Hazır
+66,79,Otomatik Kapama/Açma,Aktif
+67,46,Faz Sırası/Negatif Sıra Koruma,Tespit Edildi
+68,60,Gerilim/Frekans Dengesizlik,Tespit Edildi
+69,47O-,Gerilim Düşük Koruma,Tespit Edildi
+70,47U+,Gerilim Yüksek Koruma,Tespit Edildi
+71,59,Aşırı Gerilim Koruma,Tespit Edildi
+72,27,Az Gerilim Koruma,Tespit Edildi
+73,59,Aşırı Gerilim Koruma,Tespit Edildi
+74,49F,Termal Koruma,Çalışma
+75,68,Blok Koruma,Tespit Edildi
+76,50,Ani Akım Koruma,Çalışma
+77,51,Zaman Aşırı Akım Koruma,Çalışma
+78,50N,Ani Toprak Koruma,Çalışma
+79,51N,Zaman Aşırı Toprak Koruma,Çalışma
+80,67,Yönlü Aşırı Akım Koruma,Tespit Edildi
+81,67N,Yönlü Toprak Koruma,Tespit Edildi
+82,67NIEF,Yönlü Toprak Koruma (İnternal),Tespit Edildi
+83,50,Ani Akım Koruma,Tespit Edildi
+84,50,Ani Akım Koruma,Tespit Edildi
+85,60,Gerilim/Frekans Dengesizlik,Tespit Edildi
+86,46,Faz Sırası/Negatif Sıra Koruma,Tespit Edildi
+87,60,Gerilim/Frekans Dengesizlik,Tespit Edildi
+88,50,Ani Akım Koruma,Tespit Edildi
+89,50,Ani Akım Koruma,Tespit Edildi
+90,50,Ani Akım Koruma,Tespit Edildi
+91,50,Ani Akım Koruma,Tespit Edildi
+92,50,Ani Akım Koruma,Tespit Edildi
+93,50,Ani Akım Koruma,Tespit Edildi
+94,50,Ani Akım Koruma,Tespit Edildi
+95,50,Ani Akım Koruma,Tespit Edildi
+96,46,Faz Sırası/Negatif Sıra Koruma,Açma
+97,46D,Faz Sırası Koruma - Açma,Açma
+98,47O-,Gerilim Düşük Koruma,Açma
+99,47U+,Gerilim Yüksek Koruma,Açma
+100,49F,Termal Koruma,Açma
+101,50,Ani Akım Koruma,Açma
+102,51,Zaman Aşırı Akım Koruma,Açma
+103,50N,Ani Toprak Koruma,Açma
+104,51N,Zaman Aşırı Toprak Koruma,Açma
+105,59,Aşırı Gerilim Koruma,Açma
+106,59G,Toprak Aşırı Gerilim Koruma,Açma
+107,67,Yönlü Aşırı Akım Koruma,Açma
+108,67N,Yönlü Toprak Koruma,Açma
+109,67NIEF,Yönlü Toprak Koruma (İnternal),Açma
+110,27,Az Gerilim Koruma,Açma
+111,46,Faz Sırası/Negatif Sıra Koruma,Çalışma
+112,47O-,Gerilim Düşük Koruma,Çalışma
+113,47U+,Gerilim Yüksek Koruma,Çalışma
+114,49F,Termal Koruma,Çalışma
+115,50,Ani Akım Koruma,Çalışma
+116,51,Zaman Aşırı Akım Koruma,Çalışma
+117,50N,Ani Toprak Koruma,Çalışma
+118,51N,Zaman Aşırı Toprak Koruma,Çalışma
+119,59,Aşırı Gerilim Koruma,Çalışma
+120,60,Gerilim/Frekans Dengesizlik,Çalışma
+121,67,Yönlü Aşırı Akım Koruma,Çalışma
+122,67N,Yönlü Toprak Koruma,Çalışma
+123,67NIEF,Yönlü Toprak Koruma (İnternal),Çalışma
+124,27,Az Gerilim Koruma,Çalışma
+125,79,Otomatik Kapama/Açma,Çalışma
+126,68,Blok Koruma,Çalışma
+127,50,Ani Akım Koruma,Tespit Edildi

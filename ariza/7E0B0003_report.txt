@@ -1,0 +1,219 @@
+
+═══════════════════════════════════════════════════════════════
+                    RÖLE ARIZA ANALİZ RAPORU
+═══════════════════════════════════════════════════════════════
+
+📋 GENEL BİLGİLER:
+───────────────────────────────────────────────────────────────
+• Cihaz Adı: 
+• Arıza Zamanı: 16.07.2025 01:05:32
+• CFG Dosyası: SIGRA 4.617E0B0003.CFGt/s0,00 0,25 0,50 0,75 1,00 1,25 1,50 1,75 2,00Unused BIUnused BIUnused BI79 NIHAI ACMA79 CALISIYOR79 HAZIR79 AKTIFBinary ch 49 inputBinary ch 48 inputBinary ch 47 inputBinary ch 46 inputBinary ch 45 inputBinary ch 44 inputKESICI ACIKKESICI KAPALIBinary ch 41 inputBinary ch 40 inputBinary ch 39 input6059(1)(2)(3)/ 47U+/47O-27(1)/ 27(2)/ 27(3)59(1)/ 59(2)/ 59(3)49F-OPER68-BLKBinary ch 32 input50N-51N-OPER67NIEFTOPRAK GENEL ACMA
+• Örnekleme Hızı: 1600 Hz
+• Kayıt Türü: COMTRADE
+
+⚡ ARIZA ÖZETİ:
+───────────────────────────────────────────────────────────────
+• Muhtemel Neden: Yönlü aşırı akım - Muhtemelen hat arızası | Toprak arızası tespit edildi | Aşırı akım koruması devreye girdi | Aşırı gerilim tespit edildi | Az gerilim tespit edildi
+• Arıza Süresi: 2 saniye (grafikten)
+
+🛡️ AKTİF KORUMA FONKSİYONLARI:
+───────────────────────────────────────────────────────────────
+ 1. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+ 2. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+ 3. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+ 4. 60     | Gerilim/Frekans Dengesizlik    | Tespit Edildi
+ 5. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+ 6. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+ 7. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+ 8. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+ 9. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+10. 50     | Ani Akım Koruma                | Tespit Edildi
+11. 50     | Ani Akım Koruma                | Tespit Edildi
+12. 50     | Ani Akım Koruma                | Tespit Edildi
+13. 50     | Ani Akım Koruma                | Tespit Edildi
+14. 50     | Ani Akım Koruma                | Tespit Edildi
+15. 50     | Ani Akım Koruma                | Tespit Edildi
+16. 50     | Ani Akım Koruma                | Tespit Edildi
+17. 50     | Ani Akım Koruma                | Tespit Edildi
+18. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+19. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+20. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+21. 50     | Ani Akım Koruma                | Tespit Edildi
+22. 50     | Ani Akım Koruma                | Tespit Edildi
+23. 50     | Ani Akım Koruma                | Tespit Edildi
+24. 50     | Ani Akım Koruma                | Tespit Edildi
+25. 50     | Ani Akım Koruma                | Tespit Edildi
+26. 50     | Ani Akım Koruma                | Tespit Edildi
+27. 50     | Ani Akım Koruma                | Tespit Edildi
+28. 50     | Ani Akım Koruma                | Tespit Edildi
+29. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+30. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+31. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+32. 50     | Ani Akım Koruma                | Tespit Edildi
+33. 50     | Ani Akım Koruma                | Tespit Edildi
+34. 46     | Faz Sırası/Negatif Sıra Koruma | Tespit Edildi
+35. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+36. 59G    | Toprak Aşırı Gerilim Koruma    | Tespit Edildi
+37. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+38. 59G    | Toprak Aşırı Gerilim Koruma    | Tespit Edildi
+39. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+40. 59G    | Toprak Aşırı Gerilim Koruma    | Tespit Edildi
+41. 27     | Az Gerilim Koruma              | Tespit Edildi
+42. 27     | Az Gerilim Koruma              | Tespit Edildi
+43. 27     | Az Gerilim Koruma              | Tespit Edildi
+44. 47O-   | Gerilim Düşük Koruma           | Tespit Edildi
+45. 47U+   | Gerilim Yüksek Koruma          | Tespit Edildi
+46. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+47. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+48. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+49. 49F    | Termal Koruma                  | Tespit Edildi
+50. 46     | Faz Sırası/Negatif Sıra Koruma | Tespit Edildi
+51. 46D    | Faz Sırası Koruma - Açma       | Tespit Edildi
+52. 50     | Ani Akım Koruma                | Tespit Edildi
+53. 51     | Zaman Aşırı Akım Koruma        | Tespit Edildi
+54. 50N    | Ani Toprak Koruma              | Tespit Edildi
+55. 51N    | Zaman Aşırı Toprak Koruma      | Tespit Edildi
+56. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+57. 67N    | Yönlü Toprak Koruma            | Tespit Edildi
+58. 67NIEF | Yönlü Toprak Koruma (İnternal) | Tespit Edildi
+59. 50     | Ani Akım Koruma                | Tespit Edildi
+60. 51     | Zaman Aşırı Akım Koruma        | Tespit Edildi
+61. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+62. 67N    | Yönlü Toprak Koruma            | Tespit Edildi
+63. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+64. 67N    | Yönlü Toprak Koruma            | Tespit Edildi
+65. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+66. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+67. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+68. 67N    | Yönlü Toprak Koruma            | Tespit Edildi
+69. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+70. 67N    | Yönlü Toprak Koruma            | Tespit Edildi
+71. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+72. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+73. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+74. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+75. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+76. 50     | Ani Akım Koruma                | Tespit Edildi
+77. 50     | Ani Akım Koruma                | Tespit Edildi
+78. 79     | Otomatik Kapama/Açma           | Açma
+79. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+80. 79     | Otomatik Kapama/Açma           | Hazır
+81. 79     | Otomatik Kapama/Açma           | Aktif
+82. 46     | Faz Sırası/Negatif Sıra Koruma | Tespit Edildi
+83. 60     | Gerilim/Frekans Dengesizlik    | Tespit Edildi
+84. 47O-   | Gerilim Düşük Koruma           | Tespit Edildi
+85. 47U+   | Gerilim Yüksek Koruma          | Tespit Edildi
+86. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+87. 27     | Az Gerilim Koruma              | Tespit Edildi
+88. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+89. 49F    | Termal Koruma                  | Çalışma
+90. 68     | Blok Koruma                    | Tespit Edildi
+91. 50     | Ani Akım Koruma                | Çalışma
+92. 51     | Zaman Aşırı Akım Koruma        | Çalışma
+93. 50N    | Ani Toprak Koruma              | Çalışma
+94. 51N    | Zaman Aşırı Toprak Koruma      | Çalışma
+95. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+96. 67N    | Yönlü Toprak Koruma            | Tespit Edildi
+97. 67NIEF | Yönlü Toprak Koruma (İnternal) | Tespit Edildi
+98. 50     | Ani Akım Koruma                | Tespit Edildi
+99. 50     | Ani Akım Koruma                | Tespit Edildi
+100. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+101. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+102. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+103. 60     | Gerilim/Frekans Dengesizlik    | Tespit Edildi
+104. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+105. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+106. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+107. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+108. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+109. 50     | Ani Akım Koruma                | Tespit Edildi
+110. 50     | Ani Akım Koruma                | Tespit Edildi
+111. 50     | Ani Akım Koruma                | Tespit Edildi
+112. 50     | Ani Akım Koruma                | Tespit Edildi
+113. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+114. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+115. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+116. 50     | Ani Akım Koruma                | Tespit Edildi
+117. 50     | Ani Akım Koruma                | Tespit Edildi
+118. 50     | Ani Akım Koruma                | Tespit Edildi
+119. 50     | Ani Akım Koruma                | Tespit Edildi
+120. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+121. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+122. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+123. 46     | Faz Sırası/Negatif Sıra Koruma | Açma
+124. 46D    | Faz Sırası Koruma - Açma       | Açma
+125. 47O-   | Gerilim Düşük Koruma           | Açma
+126. 47U+   | Gerilim Yüksek Koruma          | Açma
+127. 49F    | Termal Koruma                  | Açma
+128. 50     | Ani Akım Koruma                | Açma
+129. 51     | Zaman Aşırı Akım Koruma        | Açma
+130. 50N    | Ani Toprak Koruma              | Açma
+131. 51N    | Zaman Aşırı Toprak Koruma      | Açma
+132. 59     | Aşırı Gerilim Koruma           | Açma
+133. 59G    | Toprak Aşırı Gerilim Koruma    | Açma
+134. 67     | Yönlü Aşırı Akım Koruma        | Açma
+135. 67N    | Yönlü Toprak Koruma            | Açma
+136. 67NIEF | Yönlü Toprak Koruma (İnternal) | Açma
+137. 27     | Az Gerilim Koruma              | Açma
+138. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+139. 79     | Otomatik Kapama/Açma           | Tespit Edildi
+140. 59     | Aşırı Gerilim Koruma           | Tespit Edildi
+141. 46     | Faz Sırası/Negatif Sıra Koruma | Çalışma
+142. 47O-   | Gerilim Düşük Koruma           | Çalışma
+143. 47U+   | Gerilim Yüksek Koruma          | Çalışma
+144. 49F    | Termal Koruma                  | Çalışma
+145. 50     | Ani Akım Koruma                | Çalışma
+146. 51     | Zaman Aşırı Akım Koruma        | Çalışma
+147. 50N    | Ani Toprak Koruma              | Çalışma
+148. 51N    | Zaman Aşırı Toprak Koruma      | Çalışma
+149. 59     | Aşırı Gerilim Koruma           | Çalışma
+150. 60     | Gerilim/Frekans Dengesizlik    | Çalışma
+151. 67     | Yönlü Aşırı Akım Koruma        | Çalışma
+152. 67N    | Yönlü Toprak Koruma            | Çalışma
+153. 67NIEF | Yönlü Toprak Koruma (İnternal) | Çalışma
+154. 27     | Az Gerilim Koruma              | Çalışma
+155. 79     | Otomatik Kapama/Açma           | Çalışma
+156. 68     | Blok Koruma                    | Çalışma
+157. 50     | Ani Akım Koruma                | Tespit Edildi
+
+📊 KORUMA SIRASI:
+───────────────────────────────────────────────────────────────
+1. Açma (Trip)     | 79 - Otomatik Kapama/Açma
+2. Açma (Trip)     | 46 - Faz Sırası/Negatif Sıra Koruma
+3. Açma (Trip)     | 46D - Faz Sırası Koruma - Açma
+4. Açma (Trip)     | 47O- - Gerilim Düşük Koruma
+5. Açma (Trip)     | 47U+ - Gerilim Yüksek Koruma
+6. Açma (Trip)     | 49F - Termal Koruma
+7. Açma (Trip)     | 50 - Ani Akım Koruma
+8. Açma (Trip)     | 51 - Zaman Aşırı Akım Koruma
+9. Açma (Trip)     | 50N - Ani Toprak Koruma
+10. Açma (Trip)     | 51N - Zaman Aşırı Toprak Koruma
+11. Açma (Trip)     | 59 - Aşırı Gerilim Koruma
+12. Açma (Trip)     | 59G - Toprak Aşırı Gerilim Koruma
+13. Açma (Trip)     | 67 - Yönlü Aşırı Akım Koruma
+14. Açma (Trip)     | 67N - Yönlü Toprak Koruma
+15. Açma (Trip)     | 67NIEF - Yönlü Toprak Koruma (İnternal)
+16. Açma (Trip)     | 27 - Az Gerilim Koruma
+
+💡 ÖNERİLER:
+───────────────────────────────────────────────────────────────
+1. Hat üzerinde toprak arızası kontrolü yapılmalı
+2. İzolasyon direnci ölçümü yapılmalı
+3. Topraklama sistemleri kontrol edilmeli
+4. Hat üzerinde kısa devre kontrolü yapılmalı
+5. Yük analizi yapılmalı
+6. Koruma ayarları gözden geçirilmeli
+7. Şebeke gerilim seviyesi kontrol edilmeli
+8. Transformatör çıkış gerilimleri ölçülmeli
+9. AVR sistemleri kontrol edilmeli
+
+📈 SİNYAL ANALİZİ:
+───────────────────────────────────────────────────────────────
+• IL1 Anlık Değer: Bilinmiyor A
+• IL1 Etkin Değer: Bilinmiyor A
+• Zaman Aralığı: 0-2 saniye
+• Faz Sayısı: 3 (IL1, IL2, IL3)
+
+═══════════════════════════════════════════════════════════════
+Rapor Oluşturma Zamanı: 29.07.2025 10:20:08
+═══════════════════════════════════════════════════════════════

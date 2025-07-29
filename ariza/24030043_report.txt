@@ -1,0 +1,121 @@
+
+═══════════════════════════════════════════════════════════════
+                    RÖLE ARIZA ANALİZ RAPORU
+═══════════════════════════════════════════════════════════════
+
+📋 GENEL BİLGİLER:
+───────────────────────────────────────────────────────────────
+• Cihaz Adı: 
+• Arıza Zamanı: 20.06.2025 07:44:44
+• CFG Dosyası: SIGRA 4.6124030043.CFGt/s-0,75 -0,50 -0,25 0,00 0,25 0,50 0,75 1,00 1,25 1,50 1,75Unused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BIUnused BI
+• Örnekleme Hızı: 800 Hz
+• Kayıt Türü: COMTRADE
+
+⚡ ARIZA ÖZETİ:
+───────────────────────────────────────────────────────────────
+• Muhtemel Neden: Aşırı akım koruması devreye girdi | Az gerilim tespit edildi
+• Arıza Süresi: 2 saniye (grafikten)
+
+🛡️ AKTİF KORUMA FONKSİYONLARI:
+───────────────────────────────────────────────────────────────
+ 1. 27     | Az Gerilim Koruma              | Tespit Edildi
+ 2. 27     | Az Gerilim Koruma              | Tespit Edildi
+ 3. 27     | Az Gerilim Koruma              | Tespit Edildi
+ 4. 50     | Ani Akım Koruma                | Tespit Edildi
+ 5. 50     | Ani Akım Koruma                | Tespit Edildi
+ 6. 50     | Ani Akım Koruma                | Tespit Edildi
+ 7. 50     | Ani Akım Koruma                | Tespit Edildi
+ 8. 50     | Ani Akım Koruma                | Tespit Edildi
+ 9. 50     | Ani Akım Koruma                | Tespit Edildi
+10. 50     | Ani Akım Koruma                | Tespit Edildi
+11. 50     | Ani Akım Koruma                | Tespit Edildi
+12. 50     | Ani Akım Koruma                | Tespit Edildi
+13. 50     | Ani Akım Koruma                | Tespit Edildi
+14. 50     | Ani Akım Koruma                | Tespit Edildi
+15. 50     | Ani Akım Koruma                | Tespit Edildi
+16. 27     | Az Gerilim Koruma              | Tespit Edildi
+17. 50     | Ani Akım Koruma                | Tespit Edildi
+18. 50     | Ani Akım Koruma                | Tespit Edildi
+19. 50     | Ani Akım Koruma                | Tespit Edildi
+20. 50     | Ani Akım Koruma                | Tespit Edildi
+21. 50     | Ani Akım Koruma                | Tespit Edildi
+22. 50     | Ani Akım Koruma                | Tespit Edildi
+23. 50     | Ani Akım Koruma                | Tespit Edildi
+24. 50     | Ani Akım Koruma                | Tespit Edildi
+25. 50     | Ani Akım Koruma                | Tespit Edildi
+26. 50     | Ani Akım Koruma                | Tespit Edildi
+27. 50     | Ani Akım Koruma                | Tespit Edildi
+28. 50     | Ani Akım Koruma                | Tespit Edildi
+29. 27     | Az Gerilim Koruma              | Tespit Edildi
+30. 50     | Ani Akım Koruma                | Tespit Edildi
+31. 50     | Ani Akım Koruma                | Tespit Edildi
+32. 50     | Ani Akım Koruma                | Tespit Edildi
+33. 50     | Ani Akım Koruma                | Tespit Edildi
+34. 50     | Ani Akım Koruma                | Tespit Edildi
+35. 50     | Ani Akım Koruma                | Tespit Edildi
+36. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+37. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+38. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+39. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+40. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+41. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+42. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+43. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+44. 27     | Az Gerilim Koruma              | Tespit Edildi
+45. 50     | Ani Akım Koruma                | Tespit Edildi
+46. 50     | Ani Akım Koruma                | Tespit Edildi
+47. 50     | Ani Akım Koruma                | Tespit Edildi
+48. 27     | Az Gerilim Koruma              | Tespit Edildi
+49. 27     | Az Gerilim Koruma              | Tespit Edildi
+50. 50     | Ani Akım Koruma                | Tespit Edildi
+51. 50     | Ani Akım Koruma                | Tespit Edildi
+52. 50     | Ani Akım Koruma                | Tespit Edildi
+53. 27     | Az Gerilim Koruma              | Tespit Edildi
+54. 27     | Az Gerilim Koruma              | Tespit Edildi
+55. 27     | Az Gerilim Koruma              | Tespit Edildi
+56. 50     | Ani Akım Koruma                | Tespit Edildi
+57. 50     | Ani Akım Koruma                | Tespit Edildi
+58. 50     | Ani Akım Koruma                | Tespit Edildi
+59. 50     | Ani Akım Koruma                | Tespit Edildi
+60. 27     | Az Gerilim Koruma              | Tespit Edildi
+61. 50     | Ani Akım Koruma                | Tespit Edildi
+62. 50     | Ani Akım Koruma                | Tespit Edildi
+63. 50     | Ani Akım Koruma                | Tespit Edildi
+64. 50     | Ani Akım Koruma                | Tespit Edildi
+65. 27     | Az Gerilim Koruma              | Tespit Edildi
+66. 50     | Ani Akım Koruma                | Tespit Edildi
+67. 50     | Ani Akım Koruma                | Kapalı
+68. 67     | Yönlü Aşırı Akım Koruma        | Kapalı
+69. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+70. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+71. 67     | Yönlü Aşırı Akım Koruma        | Tespit Edildi
+72. 27     | Az Gerilim Koruma              | Tespit Edildi
+73. 50     | Ani Akım Koruma                | Açma
+74. 27     | Az Gerilim Koruma              | Açma
+75. 27     | Az Gerilim Koruma              | Tespit Edildi
+76. 50     | Ani Akım Koruma                | Tespit Edildi
+
+📊 KORUMA SIRASI:
+───────────────────────────────────────────────────────────────
+1. Açma (Trip)     | 50 - Ani Akım Koruma
+2. Açma (Trip)     | 27 - Az Gerilim Koruma
+
+💡 ÖNERİLER:
+───────────────────────────────────────────────────────────────
+1. Hat üzerinde kısa devre kontrolü yapılmalı
+2. Yük analizi yapılmalı
+3. Koruma ayarları gözden geçirilmeli
+4. Şebeke gerilim seviyesi kontrol edilmeli
+5. Transformatör çıkış gerilimleri ölçülmeli
+6. AVR sistemleri kontrol edilmeli
+
+📈 SİNYAL ANALİZİ:
+───────────────────────────────────────────────────────────────
+• IL1 Anlık Değer: Bilinmiyor A
+• IL1 Etkin Değer: Bilinmiyor A
+• Zaman Aralığı: 0-2 saniye
+• Faz Sayısı: 3 (IL1, IL2, IL3)
+
+═══════════════════════════════════════════════════════════════
+Rapor Oluşturma Zamanı: 29.07.2025 10:19:54
+═══════════════════════════════════════════════════════════════

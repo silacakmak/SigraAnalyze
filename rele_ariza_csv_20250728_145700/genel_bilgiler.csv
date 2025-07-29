@@ -1,0 +1,8 @@
+Parametre,Değer
+Cihaz Adı,H10_FIDER_H
+Arıza Zamanı,6.04.2025 02:13:56
+CFG Dosyası,"SIGRA 4.617E0A0009.CFGt/s0,00 0,25 0,50 0,75 1,00 1,25 1,50 1,75 2,00Unused BIUnused BIUnused BI79 NIHAI ACMA79 CALISIYOR79 HAZIR79 AKTIFBinary ch 49 inputBinary ch 48 inputBinary ch 47 inputBinary ch 46 inputBinary ch 45 inputBinary ch 44 inputKESICI ACIKKESICI KAPALIBinary ch 41 inputBinary ch 40 inputBinary ch 39 input6059(1)(2)(3)/ 47U+/47O-27(1)/ 27(2)/ 27(3)59(1)/ 59(2)/ 59(3)49F-OPER68-BLKBinary ch 32 input50N-51N-OPER67NIEFTOPRAK GENEL ACMA"
+Örnekleme Hızı,1600 Hz
+Kayıt Türü,COMTRADE
+Muhtemel Neden,Yönlü aşırı akım - Muhtemelen hat arızası | Toprak arızası tespit edildi | Aşırı akım koruması devreye girdi | Aşırı gerilim tespit edildi | Az gerilim tespit edildi
+Arıza Süresi,2 saniye (grafikten)
